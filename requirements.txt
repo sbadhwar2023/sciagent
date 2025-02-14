@@ -1,0 +1,9 @@
+langchain
+openai
+duckduckgo-search
+tiktoken
+python-dotenv
+langchain-community
+langchain-deepseek
+langchain-anthropic
+tavily-python

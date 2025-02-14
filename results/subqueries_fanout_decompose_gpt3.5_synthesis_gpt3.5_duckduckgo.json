@@ -1,0 +1,10 @@
+{
+  "original_query": "I am a researcher interested in bringing mixed-gas sorption capabilities to my lab. Please discuss the differences between pure- and mixed-gas sorption for glassy polymers, how the dual-mode sorption model can be used to predict mixed-gas sorption behavior in glassy polymers (include equations where applicable), and what challenges there are in accurately predicting pure- and mixed-gas sorption using the dual-mode sorption model.",
+  "subqueries": [
+    "What are the differences between pure-gas sorption and mixed-gas sorption for glassy polymers?",
+    "How does the dual-mode sorption model work in predicting mixed-gas sorption behavior in glassy polymers?",
+    "What equations are involved in the dual-mode sorption model for predicting mixed-gas sorption behavior?",
+    "What challenges exist in accurately predicting pure-gas sorption using the dual-mode sorption model?",
+    "What challenges exist in accurately predicting mixed-gas sorption using the dual-mode sorption model?"
+  ]
+}
